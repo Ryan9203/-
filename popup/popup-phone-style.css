@@ -16,6 +16,10 @@
     font-size: 64px;
   }
 
+  .pc-only {
+    display: none;
+  }
+
   main {
     gap: 24px;
   }
