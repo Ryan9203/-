@@ -118,6 +118,7 @@ input {
   width: 228px;
   height: 56px;
   border-radius: 8px;
+  border-style: none;
 }
 
 input::placeholder {
@@ -148,6 +149,8 @@ a {
   color: #5B2386;
   font-size: 24px;
   font-weight: 500;
+
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 15%);
 }
 
 .section03 .container {
