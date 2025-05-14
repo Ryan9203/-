@@ -48,9 +48,7 @@ article {
 
 header {
   margin-bottom: 40px;
-}
 
-header p {
   font-family: 'OTEnjoystoriesBa', sans-serif;
   font-size: 36px;
   font-weight: 700;
@@ -78,5 +76,11 @@ main a {
   background-color: #FCEE21;
   border-radius: 12px;
 
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  gap: 6px;
+
   box-shadow: 2px 4px 10px rgba(0, 0, 0, 15%);
+  
 }
