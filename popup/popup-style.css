@@ -10,6 +10,18 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GmarketSansMedium';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
 
 /* font-family: 'OTEnjoystoriesBa', sans-serif; */
 
@@ -67,5 +79,4 @@ main a {
   border-radius: 12px;
 
   box-shadow: 2px 4px 10px rgba(0, 0, 0, 15%);
-
 }
